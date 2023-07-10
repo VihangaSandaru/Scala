@@ -16,12 +16,18 @@ object Q1 {
         var strReversed=reverse(str);
         println(strReversed);
       }
-
-
-
-
-
-
-
-
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
